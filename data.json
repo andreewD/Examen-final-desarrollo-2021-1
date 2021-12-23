@@ -1,0 +1,17 @@
+[
+  {
+    "username": "Administrador",
+    "email": "admin@uni.edu.pe",
+    "password": "4admin"
+  },
+  {
+    "username": "Masacre",
+    "email": "masacre@uni.edu.pe",
+    "password": "4admin"
+  },
+  {
+    "username": "Pablo",
+    "email": "pablo@uni.edu.pe",
+    "password": "123"
+  }
+]
